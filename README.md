@@ -1,2 +1,5 @@
 # hello_word
-just another repository
+
+Hi Humans!
+
+这是一次尝试。
